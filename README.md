@@ -4,6 +4,13 @@
 
 **J2EE-Security-JWT-With-db** is a practical Java EE project that demonstrates secure authentication and role-based authorization using JSON Web Tokens (JWT) and a database-backed identity store. The project leverages Jakarta EE Security API, JAX-RS for RESTful endpoints, Hibernate ORM for persistence, and MySQL for data storage. It is ideal for learning how to build modern, stateless, and scalable authentication systems in enterprise Java applications.
 
+---
+
+## 📽️ Demo Video
+[![J2EE-Security-JWT-With-db Project Demo](https://github.com/chamikathereal/J2EE-Security-JWT-With-db/blob/main/J2EE-Security-JWT-With-db.png)](https://youtu.be/sSrRBxIvBqo)
+
+---
+
 ## 🗂️ Project Structure
 
 ```
